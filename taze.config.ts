@@ -1,10 +1,10 @@
-import { defineConfig } from 'taze'
+import { defineConfig } from "taze";
 
 export default defineConfig({
-  exclude: [
-  ],
-  force: true,
-  write: true,
-  install: true,
-  mode: 'major',
-})
+	exclude: [
+	],
+	force: true,
+	write: true,
+	install: true,
+	mode: "major",
+});
