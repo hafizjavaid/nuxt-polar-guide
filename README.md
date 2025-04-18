@@ -8,11 +8,13 @@ This repository covers the following concepts:
 - Redirection to a generated Checkout session
 - Capturing Webhook events for reconcilation with your database
 
----
+
+# Integrate Polar with Nuxt
+<!-- ---
 title: "Integrate Polar with Nuxt"
 sidebarTitle: "Nuxt"
 description: "In this guide, we'll show you how to integrate Polar with Nuxt"
----
+--- -->
 
 
 Consider following this guide while using the Polar Sandbox Environment. This will allow you to test your integration without affecting your production data.
